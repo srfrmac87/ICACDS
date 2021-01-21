@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ICAC DataSysystems
-// @version      0.05
+// @version      0.08
 // @description  File Downloader!
 // @author       You
 // @match        https://www.icacdatasystem.com/*
